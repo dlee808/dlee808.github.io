@@ -8,12 +8,12 @@
     "website": "https://dlee808.github.io",
     "summary": "I am studying for a B.B.A. in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-  }
+  },
   "interests": [
-    { "name": "Technology" },,
+    { "name": "Technology" },
     { "name": "Music" },
-    { "name": "Sports" },
-  ]
+    { "name": "Sports" }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -23,7 +23,7 @@
       "name": "Toolsets/OS",
       "keywords": ["Windows","Git/GitHub"]
     }
-  ]
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -34,7 +34,7 @@
       "courses": [
       ]
     }
-  ]
+  ],
   "references": [
     {
       "name": "Available upon request"
