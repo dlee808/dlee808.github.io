@@ -4,7 +4,7 @@ type: project
 image: 
 title: "Banana"
 date: 2024
-published: true
+published: false
 labels:
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
