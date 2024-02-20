@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: "E3: Preparing for WODs"
+# All dates must be YYYY-MM-DD format!
+date: 2024-02-17
+published: true
+labels:
+  - Engineering
+---
+
+The task in the Invoice1 WOD was to generate an invoice for a sales receipt by creating a table that contained the item names, quantities, prices, sub-total, tax, and grand total. Instead of inputting raw numbers, we integrated scripts that would allow us to only change the variables instead of replacing specific numbers throughout the page.
+https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
+One part I stumbled on while I was doing the WOD was that I forgot to put a ` while doing document.write. When I tried to load the table in my browser, the bottom three rows showed up but the rest of the table did not. I spent a while trying to figure out what I was doing wrong until I found the problem. It reminded me how much we have to focus on the little details when trying to do these assignments. Even though VS Code already helps us out a ton, there are still things that we have to catch on our own. It also reminded me that I should be checking the output after each step instead of writing everything in VS Code and checking at the very end. Other than that, I was able to do everything else in the WOD under the Rx time. I completed the WOD first without recording, made sure everything was correct by watching the example video, and then just repeated what I did. One thing I can do to be better prepared is to practice more so I can know exactly what to type when I am trying to do the WOD for the first time on my own.
+
