@@ -6,7 +6,7 @@ title: "E3: Preparing for WODs"
 date: 2024-02-17
 published: true
 labels:
-  - Engineering
+  - MIS
 ---
 
 The task in the Invoice1 WOD was to generate an invoice for a sales receipt by creating a table that contained the item names, quantities, prices, sub-total, tax, and grand total. Instead of inputting raw numbers, we integrated scripts that would allow us to only change the variables instead of replacing specific numbers throughout the page.
